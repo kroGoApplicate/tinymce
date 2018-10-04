@@ -1,6 +1,8 @@
 TinyMCE - JavaScript Library for Rich Text Editing
 ===================================================
 
+KRO Forked.
+
 Building TinyMCE
 -----------------
 Install [Node.js](https://nodejs.org/en/) on your system.
